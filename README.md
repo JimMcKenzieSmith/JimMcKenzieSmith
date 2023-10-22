@@ -4,6 +4,7 @@ I am currently a Staff Software Engineer working at Houghton Mifflin Harcourt in
 
 🌱 **I’m currently learning:**
  - I just attended [Coalesce 2023](https://coalesce.getdbt.com/), and had a lot of great takeaways. Ask me about it!
+ - Just for fun and to enhance my Python skills, I'm currently tackling the [LeetCode medium's](https://leetcode.com/explore/interview/card/top-interview-questions-medium/) using Python.
 
 ⚡ **Fun facts about me:**
  - I live out in the country, on 4 acres, with my wife and three kids.
