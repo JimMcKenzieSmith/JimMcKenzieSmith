@@ -3,7 +3,7 @@
 I am currently a Staff Software Engineer working at Houghton Mifflin Harcourt in the modern data stack (Fivetran, Snowflake, dbt, SQL, Python, and AWS). In April 2021, I was brought on to lead the development in migrating the company from their legacy PostgreSQL "colo" reporting database to a modern Snowflake data pipeline and data warehouse. My team is also building out Next.js web apps that hook directly into Snowflake for reporting. The project has been, and continues to be, an incredible success.
 
 🌱 **I’m currently learning:**
- - I just attended [Colesce 2023](https://coalesce.getdbt.com/), and had a lot of great takeaways. Ask me about it!
+ - I just attended [Coalesce 2023](https://coalesce.getdbt.com/), and had a lot of great takeaways. Ask me about it!
 
 ⚡ **Fun facts about me:**
  - I live out in the country, on 4 acres, with my wife and three kids.
