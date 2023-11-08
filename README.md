@@ -8,8 +8,8 @@ I am currently a Staff Software Engineer working at Houghton Mifflin Harcourt in
  - In my career I've mainly been a Java developer, with some occassional JavaScript, TypeScript, Rust, and Scala mixed in.  To challege myself and to enhance my Python skills, I'm currently tackling the [LeetCode medium's](https://leetcode.com/explore/interview/card/top-interview-questions-medium/) using Python.
 
 ⚡ **Fun facts about me:**
- - I live out in the country, on 4 acres, with my wife and three kids.
- - My family and I have chickens, goats, dogs, and cats.
+ - I live in Hillsboro, Oregon, USA.
+ - Some countries that I have traveled to include: Germany, France, Greece, Japan, Thailand, and Ethiopia.
 
 📫 **How to reach me:**
  - [linkedin.com/in/jim-mckenzie-smith](https://www.linkedin.com/in/jim-mckenzie-smith/)
