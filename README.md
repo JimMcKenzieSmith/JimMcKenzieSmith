@@ -1,10 +1,9 @@
 ## Hi, I'm Jim 👋
 
-I am currently a Staff Software Engineer working at Houghton Mifflin Harcourt in the modern data stack (Fivetran, Snowflake, dbt, SQL, Python, and AWS). In April 2021, I was brought on to lead the development in migrating the company from their legacy PostgreSQL "colo" reporting database to a modern Snowflake data pipeline and data warehouse. My team is also building out Next.js web apps that hook directly into Snowflake for reporting. The project has been, and continues to be, an incredible success.
+I am currently a Staff Software Engineer working at NBCUniversal.
 
 🌱 **I’m currently learning:**
- - Snowflake and dbt are areas where I'm continuing to dive deep.  I have received certifications in both.  
- - In my career I've mainly been a Java developer, with some occassional JavaScript, TypeScript, Rust, and Scala mixed in.  To challege myself and to enhance my Python skills, I'm currently tackling the [LeetCode medium's](https://leetcode.com/explore/interview/card/top-interview-questions-medium/) using Python.
+ - [Github Actions!](https://www.linkedin.com/learning/cert-prep-github-actions-by-microsoft-press)
 
 ⚡ **Fun facts about me:**
  - I live in Hillsboro, Oregon, USA.
